@@ -251,7 +251,7 @@ apt install php
 git clone https://github.com/siputra12/prank
 cd prank
 ls
-php wa.php
+php call.php
 
 ;;
 
